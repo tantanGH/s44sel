@@ -13,7 +13,7 @@ S44/A44/WAV/PCMデータファイルのセレクタ兼プレーヤです。
  - プレイリスト対応
  - リピート再生対応
 
-<img src='images/s44sel1.png' width='800px'/>
+<img src='images/s44sel1.jpeg' width='800px'/>
 
 ---
 
