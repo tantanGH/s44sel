@@ -13,7 +13,7 @@ S44/A44/WAV/PCMデータファイルのセレクタ兼プレーヤです。
  - プレイリスト対応
  - リピート再生対応
 
-<img src='images/s44sel1.jpeg' width='800px'/>
+<img src='images/s44sel3.jpeg' width='800px'/>
 
 ---
 
@@ -98,7 +98,7 @@ S44SLxxx.ZIP をダウンロードして、S44SEL.X をパスの通ったディ�
 
 コマンドラインオプションもいくつかありますが、詳細は `-h` で表示されるヘルプを参照してください。
 
-<img src='images/s44sel2.png'/>
+<img src='images/s44sel4.png'/>
 
 起動直後の画面は上記のようになります。
 
@@ -159,4 +159,5 @@ NONE -> ALBUM -> SHUFFLE -> SINGLE -> SINGLE2 -> SINGLE3 -> NONE -> ... と押�
 
 ## History
 
+* 0.2.2 (2023/08/01) ... 曲の時間を表示するようにした
 * 0.2.1 (2023/07/31) ... 初版
